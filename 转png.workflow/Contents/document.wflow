@@ -51,7 +51,7 @@
 				<key>ActionParameters</key>
 				<dict>
 					<key>imageType</key>
-					<string>TIFF</string>
+					<string>PNG</string>
 				</dict>
 				<key>BundleIdentifier</key>
 				<string>com.apple.Automator.ChangeImageType</string>
@@ -101,12 +101,10 @@
 						<string>0</string>
 					</dict>
 				</dict>
-				<key>conversionLabel</key>
-				<integer>0</integer>
 				<key>isViewVisible</key>
 				<integer>1</integer>
 				<key>location</key>
-				<string>309.000000:224.000000</string>
+				<string>289.000000:224.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Change Type of Images.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
